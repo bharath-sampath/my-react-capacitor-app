@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h2>Testing Capacitor and React!!!</h2>
+        <h2>Testing Capacitor and React</h2>
         <button onClick={shareInfo}>Share</button>
       </header>
     </div>
